@@ -1,0 +1,14 @@
+syntax = "proto3";
+option go_package = "github.com/xvbnm48/grpc-example/student";
+
+package student;
+
+service DataStudent {
+    rpc FindStudentByEmail(Student) returns (Student){};
+}
+
+message Student {
+    string nama = 1;
+    int32 umur = 2;
+    string email = 3;
+}
