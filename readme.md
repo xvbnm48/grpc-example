@@ -12,4 +12,4 @@ Protobuff adalah sebuah format data yang digunakan untuk komunikasi antar aplika
 HTTP/2 adalah sebuah protokol komunikasi yang digunakan untuk mengirimkan data antar aplikasi. HTTP/2 menggunakan binary sebagai format data nya. HTTP/2 menggunakan multiplexing untuk mengirimkan data antar aplikasi.
 
 ## 4. Apa itu multiplexing
-multiplexing adalah 
+multiplexing adalah sebuah teknik untuk mengirimkan data antar aplikasi. multiplexing menggunakan stream untuk mengirimkan data antar aplikasi.
