@@ -7,3 +7,6 @@ GRPC adalah sebuah framework untuk membuat aplikasi berbasis microservice. GRPC 
 
 ## 2. Apa itu protobuff
 Protobuff adalah sebuah format data yang digunakan untuk komunikasi antar aplikasi. Protobuff menggunakan binary sebagai format data nya. Protobuff menggunakan schema untuk mendefinisikan data apa saja yang akan dikirimkan antar aplikasi.
+
+## 3. Apa itu HTTP/2
+HTTP/2 adalah sebuah protokol komunikasi yang digunakan untuk mengirimkan data antar aplikasi. HTTP/2 menggunakan binary sebagai format data nya. HTTP/2 menggunakan multiplexing untuk mengirimkan data antar aplikasi.
