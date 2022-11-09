@@ -13,3 +13,6 @@ HTTP/2 adalah sebuah protokol komunikasi yang digunakan untuk mengirimkan data a
 
 ## 4. Apa itu multiplexing
 multiplexing adalah sebuah teknik untuk mengirimkan data antar aplikasi. multiplexing menggunakan stream untuk mengirimkan data antar aplikasi.
+
+## 5. Apa itu stream
+stream adalah sebuah jalur komunikasi antar aplikasi. stream menggunakan binary sebagai format data nya. stream menggunakan multiplexing untuk mengirimkan data antar aplikasi.!!!
