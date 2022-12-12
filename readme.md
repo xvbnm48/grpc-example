@@ -16,3 +16,6 @@ multiplexing adalah sebuah teknik untuk mengirimkan data antar aplikasi. multipl
 
 ## 5. Apa itu stream
 stream adalah sebuah jalur komunikasi antar aplikasi. stream menggunakan binary sebagai format data nya. stream menggunakan multiplexing untuk mengirimkan data antar aplikasi.!!!
+
+
+microservice
